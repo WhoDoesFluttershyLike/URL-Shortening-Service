@@ -40,9 +40,9 @@ The **URL Shortening Service** is a simple and efficient API that takes a long U
 
 **1. Clone the Repository**
 
-git clone https://github.com/your-username/url-shortening-service.git
+git clone https://github.com/WhoDoesFluttershyLike/URL-Shortening-Service.git
 
-cd url-shortening-service
+cd URL-Shortening-Service
 
 **2. Install Dependencies**
 
@@ -58,7 +58,7 @@ mvn clean install
 
 mvn spring-boot:run
 
-The application will start on `http://localhost:8082`
+The application will start on http://localhost:8082
 
 
 
